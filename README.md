@@ -2,10 +2,10 @@
 Gelişmiş Sistem
 
 # Description
-!sunucupatlat | Tüm kanalları siler, 100 tane rol ve kanal oluşturur.
-!herkesiçıkart | Sunucudaki herkesi banlar.
-!kanalpatlat | Sunucudaki tüm kanalları siler.
-!rolpatlat | Sunucudaki tüm rolleri siler.
+!sunucupatlat | Tüm kanalları siler, 100 tane rol ve kanal oluşturur. <br>
+!herkesiçıkart | Sunucudaki herkesi banlar. <br>
+!kanalpatlat | Sunucudaki tüm kanalları siler. <br>
+!rolpatlat | Sunucudaki tüm rolleri siler. <br>
 
 ---
 - ✨ [For Support](https://github.com/sponsors/egehan0250) <br>
