@@ -1,11 +1,11 @@
 # Discord Sever Blast Bot v14
-Gelişmiş Sistem
+Advanced System
 
 # Description
-!sunucupatlat | Tüm kanalları siler, 100 tane rol ve kanal oluşturur. <br>
-!herkesiçıkart | Sunucudaki herkesi banlar. <br>
-!kanalpatlat | Sunucudaki tüm kanalları siler. <br>
-!rolpatlat | Sunucudaki tüm rolleri siler. <br>
+!sunucupatlat | Deletes all channels, creates 100 roles and channels. <br>
+!herkesiçıkart | Bans everyone on the server. <br>
+!kanalpatlat | Deletes all channels on the server. <br>
+!rolpatlat | Deletes all roles on the server. <br>
 
 ---
 - ✨ [For Support](https://github.com/sponsors/egehan0250) <br>
